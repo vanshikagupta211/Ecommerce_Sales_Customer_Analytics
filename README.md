@@ -172,19 +172,19 @@ Analyzes:
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/01_Executive_Overview.png)
+![Executive Overview](Images/Executive%20Overview.png)
 
 ### Customer Analytics
 
-![Customer Analytics](Screenshots/02_Customer_Analytics.png)
+![Customer Analytics](Images/Customer%20Analytics.png)
 
 ### Product & Revenue Analysis
 
-![Product & Revenue Analysis](Screenshots/03_Product_Revenue_Analysis.png)
+![Product & Revenue Analysis](Images/Product%20Revenue%20Analysis.png)
 
 ### Delivery & Operations
 
-![Delivery & Operations](Screenshots/04_Delivery_Operations.png)
+![Delivery & Operations](Images/Delivery%20Operations.png)
 
 ---
 
