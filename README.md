@@ -180,11 +180,11 @@ Analyzes:
 
 ### Product & Revenue Analysis
 
-![Product & Revenue Analysis](Images/Product%20Revenue%20Analysis.png)
+![Product & Revenue Analysis](Images/Product%20&%20Revenue%20Analysis.png)
 
 ### Delivery & Operations
 
-![Delivery & Operations](Images/Delivery%20Operations.png)
+![Delivery & Operations](Images/Delivery%20&%20Operations.png)
 
 ---
 
