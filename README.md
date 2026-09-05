@@ -102,7 +102,7 @@ Provides an overview of:
 - Revenue
 - Orders
 - Customers
-- AOV
+- Average Order Value
 - Product sales
 - Freight
 - Revenue trends
@@ -165,6 +165,39 @@ Analyzes:
 - Reset Filters
 - Map Visualizations
 - Interactive Filtering
+
+---
+
+## 💻 Power BI Report
+
+The complete interactive Power BI report is available in this repository:
+
+📁 **Power BI/E-Commerce Sales & Customer Analytics.pbix**
+
+> Download the `.pbix` file and open it using Power BI Desktop.
+
+---
+
+## 📁 Project Structure
+
+```text
+Ecommerce_Sales_Customer_Analytics
+│
+├── Documentation
+│
+├── Images
+│   ├── Executive Overview.png
+│   ├── Customer Analytics.png
+│   ├── Product & Revenue Analysis.png
+│   └── Delivery & Operations.png
+│
+├── Power BI
+│   └── E-Commerce Sales & Customer Analytics.pbix
+│
+├── SQL
+│
+└── README.md
+```
 
 ---
 
