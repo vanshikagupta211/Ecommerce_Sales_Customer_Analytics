@@ -172,7 +172,7 @@ Analyzes:
 
 The complete interactive Power BI report is available in this repository:
 
-📁 **Power BI/E-Commerce Sales & Customer Analytics.pbix**
+📁 [Download the Power BI Report](Power%20BI/E-Commerce%20Sales%20%26%20Customer%20Analytics.pbix)
 
 > Download the `.pbix` file and open it using Power BI Desktop.
 
