@@ -4,7 +4,7 @@ E-COMMERCE SALES & CUSTOMER ANALYTICS
 01 - DATA EXPLORATION
 ===========================================================
 Database: ecommerce
-Platform: SQL Server
+Platform: SQL Server 
 ===========================================================
 */
 
