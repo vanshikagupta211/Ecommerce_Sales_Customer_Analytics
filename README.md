@@ -24,7 +24,9 @@ The objective of this project is to transform this data into actionable insights
 
 ## 📂 Dataset
 
-Dataset: Brazilian E-Commerce Public Dataset by Olist
+**Dataset:** Brazilian E-Commerce Public Dataset by Olist
+
+**Source:** [Kaggle - Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 The analysis uses:
 
@@ -36,7 +38,7 @@ The analysis uses:
 
 The dataset contains approximately 99K orders covering 2016–2018.
 
-> Raw dataset is not included in this repository. Please refer to the original dataset source.
+> Raw dataset is not included in this repository. Please refer to the original dataset source using the link above.
 
 ---
 
